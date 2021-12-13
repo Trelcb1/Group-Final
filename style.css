@@ -1,0 +1,16 @@
+         .background-black{
+         border:1px solid white;
+         flex-wrap:wrap;
+         background-color:black
+         }
+         .background-gray{
+         border:1px solid white;
+         flex-wrap:wrap;
+         background-color:#666666
+         }
+         .card{
+         margin-bottom: 10px;
+         float: none;
+         margin: 0 auto;
+         width: 20rem;
+         }
